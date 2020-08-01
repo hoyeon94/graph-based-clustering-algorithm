@@ -7,6 +7,7 @@
 
 <h1>코드 정리</h1>
 
+<p>
 1.데이터 전처리
 amazon-meta.txt 파일을 전처리
 pre_process.py : 데이터를 전처리하여 undirected network 생성 및 edge list 저장
@@ -34,3 +35,4 @@ get_top_5.py : 그래프 정보와 메타데이터 정보,그리고 구매되는
 
 8. 추천하기 위한 ui 코드
 gui.py : 추천 알고리즘을 gui로 구현함.
+</p>
