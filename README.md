@@ -1,6 +1,6 @@
 # graph-based-clustering-algorithm
 
-아마존 구매이력 데이터를 이용해 그래프를 구성하고, 클러스터링 알고리즘으로<br>
+아마존 구매이력 데이터(Product co-purchasing networks (Amazon product co-purchasing network metadata)를 이용해 그래프를 구성하고, 클러스터링 알고리즘으로<br>
 <strong>label propagtion algorithm</strong>(Community detection via semi-synchronous label propagation algorithms. In Business Applications of Social Network Analysis (BASNA), 2010 IEEE International Workshop on (pp. 1-8). IEEE. Cordasco, G., & Gargano, L.)<br>
 <strong>semi label propagation algorithm</strong>(Semi-supervised community detection using Label Propagation (Dong Liu, Published 6 August 2014)<br>
 을 사용했다.
