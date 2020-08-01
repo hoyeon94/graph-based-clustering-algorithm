@@ -5,7 +5,7 @@ label propagtion algorithm(Community detection via semi-synchronous label propag
 semi label propagation algorithm(Semi-supervised community detection using Label Propagation (Dong Liu, Published 6 August 2014)
 을 사용했다.
 
-##코드 정리##
+<h1>코드 정리</h1>
 
 1.데이터 전처리
 amazon-meta.txt 파일을 전처리
